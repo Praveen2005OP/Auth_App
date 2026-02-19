@@ -11,6 +11,14 @@ hashing.
 
 ------------------------------------------------------------------------
 
+## 🌍 Live Deployment
+
+The application is deployed on Render:
+
+🔗 https://auth-app-lll4.onrender.com/
+
+------------------------------------------------------------------------
+
 ## 🚀 Features
 
 -   User Registration
@@ -38,9 +46,19 @@ hashing.
 
 ## 📂 Project Structure
 
-FlaskAuth_app/ │ ├── app.py ├── requirements.txt ├── Procfile ├──
-instance/ ├── templates/ │ ├── base.html │ ├── index.html │ ├──
-login.html │ ├── register.html │ └── dashboard.html └── README.md
+-  FlaskAuth_app/
+-    │
+-    ├── app.py
+-    ├── requirements.txt
+-    ├── Procfile
+-    ├── instance
+-    ├── templates
+-    │      ├── base.html
+-    │      ├── index.html
+-    │      ├── login.html
+-    │      ├── register.html
+-    │      └── dashboard.html
+-    └── README.md
 
 ------------------------------------------------------------------------
 
